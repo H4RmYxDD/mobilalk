@@ -1,0 +1,12 @@
+Writer	Title	Edition	Year
+J.K. Rowling	Harry Potter 1	1st	1997
+George Orwell	1984	2nd	1949
+Jane Austen	Pride and Prejudice	3rd	1813
+J.R.R. Tolkien	The Hobbit	1st	1937
+F. Scott	The Great Gatsby	4th	1925
+Mary Shelley	Frankenstein	2nd	1818
+Harper Lee	To Kill a Mockingbird	5th	1960
+Ernest Hemmingway	The Old Man and the Sea	3rd	1952
+Mark Twain	Adventures of Huckleberry Finn	1st	1884
+Leo Tolstoy	War and Peace	6th	1869
+Dmitry Glukhovsky  Metro 2033  1st   2002

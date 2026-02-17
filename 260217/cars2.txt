@@ -1,0 +1,12 @@
+Brand	Model	Color	Year
+Toyota	Corolla	White	2020
+Ford	Focus	Blue	2018
+Honda	Civic	Black	2021
+Tesla	Model 3	Red	2023
+BMW	3 Series	Silver	2019
+Audi	A4	Gray	2020
+Mercedes	C-Class	Black	2022
+Volkswagen	Passat	Blue	2017
+Nissan	Altima	White	2021
+Hyundai	Elantra	Red	2020
+Fiat   1966    White   55000
