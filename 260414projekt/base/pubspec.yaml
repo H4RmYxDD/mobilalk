@@ -1,0 +1,21 @@
+name: mahjong_solitaire
+description: Klasszikus Mahjong Solitaire Flutter játék.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - assets/tiles/   ← ide tedd a mahjong csempe képeket (png) ha akarsz
